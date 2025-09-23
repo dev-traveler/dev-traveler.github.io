@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_traveler_github_io=self.webpackChunkdev_traveler_github_io||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Test Log","permalink":"/blog/2025/09/23/test-log","unlisted":false,"date":"2025-09-23T00:00:00.000Z"}]}')}}]);

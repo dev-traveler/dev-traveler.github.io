@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dev-traveler.github.io/blog/</id>
+    <title>Log Blog</title>
+    <updated>2025-09-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dev-traveler.github.io/blog/"/>
+    <subtitle>Log Blog</subtitle>
+    <icon>https://dev-traveler.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Test Log]]></title>
+        <id>https://dev-traveler.github.io/blog/2025/09/23/test-log/</id>
+        <link href="https://dev-traveler.github.io/blog/2025/09/23/test-log/"/>
+        <updated>2025-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[테스트 로그]]></summary>
+        <content type="html"><![CDATA[<p>테스트 로그</p>]]></content>
+    </entry>
+</feed>
