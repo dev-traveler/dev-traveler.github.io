@@ -24,7 +24,7 @@ function HomepageHeader() {
 export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={siteConfig.title} description="A Blog by dev_traveler">
+    <Layout title={siteConfig.title} description="A blog by dev_traveler">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
