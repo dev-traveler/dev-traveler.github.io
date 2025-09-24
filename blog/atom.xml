@@ -2,17 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev-traveler.github.io/blog/</id>
     <title>Log Blog</title>
-    <updated>2025-09-23T00:00:00.000Z</updated>
+    <updated>2025-09-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dev-traveler.github.io/blog/"/>
     <subtitle>Log Blog</subtitle>
     <icon>https://dev-traveler.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Test Log]]></title>
-        <id>https://dev-traveler.github.io/blog/2025/09/23/test-log/</id>
-        <link href="https://dev-traveler.github.io/blog/2025/09/23/test-log/"/>
-        <updated>2025-09-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[테스트 로그]]></summary>
-        <content type="html"><![CDATA[<p>테스트 로그</p>]]></content>
+        <title type="html"><![CDATA[호기심의 유통기한]]></title>
+        <id>https://dev-traveler.github.io/blog/2025/09/24/hogisim/</id>
+        <link href="https://dev-traveler.github.io/blog/2025/09/24/hogisim/"/>
+        <updated>2025-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[호기심에도 유통기한이 있어.]]></summary>
+        <content type="html"><![CDATA[<p>호기심에도 유통기한이 있어.<br>
+<!-- -->그런 마음이 들었을 때 행동으로 옮기지 않으면 시간이 지나면서 그것이 당연해져서 자신의 목소리 듣는 방법을 점점 잃게 돼.</p>
+<p>그러니까 호기심이 생겼을 때, 그것을 소중히 여기고 그 열정이 식기 전에 행동으로 옮겨서 습관으로 만들었으면 좋겠어. 계속해나가면 "와 이런것도 할 수 있게 됐네?" 라던가, "이런 취미가 더해져서 인생이 정말 풍요로워졌다" 같은 그런 결과로 이어지거든.</p>
+<p>제대로 자기 목소리를 들어주고 그 마음이 식기 전에 행동으로 옮겨주는 게 정말 중요하다고 생각해. 그게 힘든 일이라고 해도 말이야. 계속해서 자기 성장으로 이어지기도 하고 엄청난 성취감으로 이어지기도 하니까 말이야.</p>
+<p>- @issei_english, Instagram</p>]]></content>
+        <author>
+            <name>Jaehyun Kim</name>
+            <email>avenj.dev@gmail.com</email>
+            <uri>https://dev-traveler.github.io</uri>
+        </author>
+        <category label="mindset" term="mindset"/>
     </entry>
 </feed>

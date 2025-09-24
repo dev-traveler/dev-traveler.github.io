@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_traveler_github_io=self.webpackChunkdev_traveler_github_io||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud638\uae30\uc2ec\uc758 \uc720\ud1b5\uae30\ud55c","permalink":"/blog/2025/09/24/hogisim","unlisted":false,"date":"2025-09-24T00:00:00.000Z"}]}')}}]);

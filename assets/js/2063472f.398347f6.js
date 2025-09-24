@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_traveler_github_io=self.webpackChunkdev_traveler_github_io||[]).push([[215],{7646:e=>{e.exports=JSON.parse('{"tags":[{"label":"mindset","permalink":"/blog/tags/mindset","count":1}]}')}}]);
