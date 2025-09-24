@@ -134,7 +134,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://dev-traveler.github.io',
+              href: 'https://github.com/dev-traveler',
             },
           ],
         },
